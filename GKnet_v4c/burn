@@ -1,0 +1,1 @@
+avrdude -b57600 -c usbtiny -p m328p -v -e -U flash:w:/tmp/build8482719288819629636.tmp/GKnet_v4c.cpp.hex
